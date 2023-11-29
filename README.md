@@ -38,8 +38,6 @@
 
 <h3> 🧑‍💻 &nbsp;Top Languages</h3>
 
-<img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premvarma2002&layout=compact&theme=react" />###
-
 
 <h3 align="left">🔥   My Stats :</h3>
 
