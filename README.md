@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working as an **frontend developer**
+- 🔭 I’m currently working on **Ecommerce and web3 projects**
 
 - 🌱 I’m currently learning **GraphQL , Next , DSA**
 
