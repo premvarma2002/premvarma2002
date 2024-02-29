@@ -1,5 +1,3 @@
-![giphy](https://github.com/premvarma2002/premvarma2002/assets/98645019/6cadd106-5f7f-4f62-80aa-8a5344b2a2bf)
-
 <h1 align="center">Hi 👋, I'm Prem Varma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
